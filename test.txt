@@ -1,2 +1,3 @@
 first text
 second text
+Commit from new branch
