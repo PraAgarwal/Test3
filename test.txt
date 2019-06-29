@@ -2,3 +2,5 @@ first text
 fourth text
 second text
 third text
+second text
+Commit from new branch
